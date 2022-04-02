@@ -1,4 +1,4 @@
-package collections
+package containers
 
 type EnumerableWithIndex[T any] interface {
 	// Each calls the given function once for each element, passing that element's index and value.

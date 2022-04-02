@@ -1,4 +1,4 @@
-package collections
+package containers
 
 // IteratorWithIndex is stateful iterator for ordered containers whose values can be fetched by an index.
 type IteratorWithIndex[T any] interface {
